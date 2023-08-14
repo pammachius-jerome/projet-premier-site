@@ -1,0 +1,22 @@
+
+/*
+h1 {
+    margin: auto;
+}*/
+caption { 
+    padding-bottom: 50px;
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+    color: #f9f8ff;
+    width: 100%;
+    ;
+}
+td, th {
+    padding: 15px;
+    border: 1px solid #a5b4fc;
+}
+td {
+    padding: 80px;
+}
